@@ -25,13 +25,56 @@ Sampai saat ini belum diketahui penyebab dari virus Corona, tetapi diketahui vir
 ![covid19](https://dinkes.surakarta.go.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-16-at-21.08.26-rotated.jpeg)
 <hr>
 Bagaimana dampak covid-19 terhadap negara Indonesia ini? Menurut Dr. R. Stevanus C. Handoko S.Kom., MM terdapat 5 dampak dari Covid-19 di Indonesia yakni :
+
 1.  Melemahnya konsumsi rumah tangga atau melemahnya daya beli masyarakat secara luas.
+
 2.  Menurunnya angka Investasi diberbagai sektor usaha.
-3.  Penurunan penerimaan pajak, perlambatan pertumbuhan ekonomi menjadi tantangan bagi pemerintah daerah dan nasional
+
+3.  Penurunan penerimaan pajak, perlambatan pertumbuhan ekonomi menjadi tantangan bagi pemerintah daerah dan nasional.
+
 4.  pergeseran pola bisnis dan penerapan bisnis model yang tidak biasa. Pembatasan akses mobilitas masyarakat untuk bertemu dalam berbagai kegiatan termasuk didalamnya kegiatan bisnis/ekonomi mengakibatkan tumbuhnya pergeseran bisnis model yang ada saat ini.
+
 5.  Pemanfaatan teknologi informasi dan komunikasi.
 
+<hr>
 
+![1](https://github.com/fachriomee/Dashboard-covid_19-indonesia/blob/main/folder/11.JPG)
+
+- berisi tentang perkembangan kasus covid-19 secara aktual di Indonesia
+- dalam grafik berisi data dari Februari 2020 hingga Desember 2021
+- kasus meningkat dalam rentang waktu juni hingga oktober 2021
+
+<hr>
+
+![2](https://github.com/fachriomee/Dashboard-covid_19-indonesia/blob/main/folder/12.JPG)
+
+- berikut adalah breakdown penyebaran covid-19 per provinsi dari Negara Indonesia
+- dapat diketahui bahwa provinsi DKI Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur dan Kalimantan Timur adalah 5 daerah dengan jumlah kasus Covid-19 terbanyak
+
+<hr>
+
+![3](https://github.com/fachriomee/Dashboard-covid_19-indonesia/blob/main/folder/13.JPG)
+
+- berikut adalah total kasus yang telah terkonfirmasi di Indonesia
+- Hingga Desember 2021 berjumlah sebesar 4,2 juta kasus
+
+<hr>
+
+![4](https://github.com/fachriomee/Dashboard-covid_19-indonesia/blob/main/folder/14.JPG)
+
+- berikut adalah total kematian akibat Covid-19 yang telah terkonfirmasi di Indonesia
+- Hingga Desember 2021 berjumlah sebesar 143 ribu kasus kematian
+<hr>
+
+![5](https://github.com/fachriomee/Dashboard-covid_19-indonesia/blob/main/folder/15.JPG)
+
+- berikut adalah distribusi kasus covid-19 Indonesia berdasarkan wilayah
+- daerah yang berwana kemerahan menunjukkan bahwa kasus covid-19 di daerah tersebut tergolong cukup besar
+<hr>
+
+![6](https://github.com/fachriomee/Dashboard-covid_19-indonesia/blob/main/folder/16.JPG)
+
+- berikut adalah dasboard dari keseluruhan grafik covid-19 yang telah saya buat. Berisi filter dari setiap lokasi
 
 
 
